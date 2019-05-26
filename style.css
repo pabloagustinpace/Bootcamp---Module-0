@@ -1,0 +1,49 @@
+body {
+  margin: 0 0 0 0;
+}
+
+#headerSection {
+  background-color: bisque;
+  margin: 0 0 0 0;
+  padding: 20px 15px 20px 15px;
+  border-bottom-style: dashed;
+}
+#headerSection h1 {
+  text-align: left;
+}
+#headerSection h2 {
+  text-align: left;
+}
+#headerSection ul {
+  text-align: right;
+}
+#headerSection ul li {
+  padding: 2px 35px 2px 35px;
+}
+#headerSection figure {
+  text-align: right;
+}
+
+#bodySection {
+  background-color: beige;
+  margin: 0 0 0 0;
+  border: 0 0 0 0;
+  padding: 20px 0 20px 0px;
+  border-bottom-style: dashed;
+}
+#bodySection article {
+  margin: 0 0 0 0;
+  border: 0 0 0 0;
+  padding: 0px 10px 0px 10px;
+  border-bottom-style: dotted;
+}
+
+footer {
+  background-color: #49bac2;
+  color: black;
+  text-align: center;
+  padding: 20px 0 20px 0;
+  margin: 0 0 0 0;
+}
+
+/*# sourceMappingURL=style.css.map */
